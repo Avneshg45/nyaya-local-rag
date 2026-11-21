@@ -1,0 +1,17 @@
+﻿.venv/
+venv/
+env/
+legalrag_data/
+*.gguf
+*.bin
+*.safetensors
+*.faiss
+*.pkl
+*.sqlite3
+__pycache__/
+*.py[cod]
+*.egg-info/
+run_app.bat
+.env
+.DS_Store
+Thumbs.db
